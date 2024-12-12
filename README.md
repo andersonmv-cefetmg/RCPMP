@@ -5,7 +5,7 @@ São disponibilizados nesta página:
 
 i) As Formulações para o RCPMP;
 
-ii) As implementações dos algoritmos para a versão determinística e robusta para do RCPMP;
+ii) As implementações dos algoritmos para CPLEX e Metaheurística;
 
 iii) As instâncias de cada conjunto de dados utilizadas no trabalho.
 
