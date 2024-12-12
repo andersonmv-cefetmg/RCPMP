@@ -4,7 +4,9 @@
 São disponibilizados nesta página:
 
 i) As Formulações para o RCPMP;
+
 ii) As implementações dos algoritmos para a versão determinística e robusta para do RCPMP;
+
 iii) As instâncias de cada conjunto de dados utilizadas no trabalho.
 
 Observação: Os conjuntos de dados disponibilizados não são de nossa autoria. Dentro de cada pasta consta as informações completas da autoria e do trabalho onde cada um deles foi proposto.
