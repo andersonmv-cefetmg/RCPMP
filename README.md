@@ -1,14 +1,14 @@
 # Robust Capacitated p-Median Problem (RCPMP)
 # Repository of instances, codes and results of algorithms for the Capacitated p-Median Problem: Deterministic and Robust Versions.
 
-São disponibilizados nesta página:
+They are available on this page:
 
-i) As Formulações para o RCPMP;
+i) The Formulations for the RCPMP;
 
-ii) As implementações dos algoritmos para CPLEX e Metaheurística;
+ii) Algorithm implementations for CPLEX and Metaheuristics;
 
-iii) As instâncias de cada conjunto de dados utilizadas no trabalho.
+iii) The data sets from used in the work.
 
-Observação: Os conjuntos de dados disponibilizados não são de nossa autoria. Dentro de cada pasta consta as informações completas da autoria e do trabalho onde cada um deles foi proposto.
+Note: The datasets provided are not ours. Inside each folder there is complete information about the authorship and the work in which each one was proposed.
 
-Qualquer dúvida, entrar em contato com Anderson M. Vasconcelos pelo e-mail: andersonmv@cefetmg.br
+If you have any questions, please contact Anderson M. Vasconcelos by email: andersonmv@cefetmg.br
