@@ -1,0 +1,3 @@
+The CPLEX solver was run in the following configuration:
+IBM ILOG CPLEX Optimization Studio
+Versão: 12.9.0.0
