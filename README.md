@@ -7,7 +7,9 @@ i) The Formulations for the RCPMP;
 
 ii) Algorithm implementations for CPLEX and Metaheuristics;
 
-iii) The data sets from used in the work.
+iii) The data sets from used in the work;
+
+iv) Results tables.
 
 Note: The datasets provided are not ours. Inside each folder there is complete information about the authorship and the work in which each one was proposed.
 
